@@ -1,10 +1,57 @@
 <h1 align="center">Hi 👋, I'm Nader Chargui</h1>
 <h3 align="center">Software developer</h3>
-
+<h5 align="center">  Full-Stack Developer · Tunisia 🇹🇳</h5>
 - 🌱 I’m currently learning **On platform Online ProgramingAdvice**
 
 - 📫 How to reach me **charguinadar@gmail.com**
 
+
+
+
+I build scalable web applications with **React**, **Node.js**, and **TypeScript**.
+Currently focused on serverless architectures, REST APIs, and clean frontend architecture.
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:** React.js (v16→v18), Redux, TypeScript, SCSS, Bootstrap, Ant Design, Axios  
+**Backend:** Node.js, TypeScript, PHP, REST APIs, OOP / MVC  
+**Cloud & Infra:** AWS Lambda, DynamoDB, MySQL, MariaDB, Docker  
+**Tools:** Git, GitHub Actions, CI/CD, Jest, Webpack, Linux  
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Portfolio + CI/CD](https://github.com/nader-grt/portfolioMe) | React app auto-deployed to AWS EC2 via GitHub Actions | React, AWS EC2, GitHub Actions |
+| [TypeScript Concepts](https://github.com/nader-grt/ConceptAndCourseTypescript) | TypeScript learning repo with real patterns | TypeScript |
+| [Problem Solving C++](https://github.com/nader-grt/Problemsolvingwithcpp) | Algorithmic problem solving | C++ |
+
+---
+
+## 💼 Experience Highlights
+
+- 3+ years building **full-stack web apps** at scale  
+- Migrated production app from React v16 → v18  
+- Delivered REST APIs on **AWS Lambda + DynamoDB** (serverless)  
+- Optimized MySQL/MariaDB queries in production environments  
+- Built multi-role hospital management system (RBAC, auth, CRUD)
+
+---
+
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nader_Chargui-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/nader-chargui-6b91b01b3)
+[![Email](https://img.shields.io/badge/Email-charguinadar@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:charguinadar@gmail.com)
+
+---
+
+*Open to full-time and remote opportunities in Europe 🇩🇪🇫🇷🇮🇹*
+
+Copy README
 
 <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
 
